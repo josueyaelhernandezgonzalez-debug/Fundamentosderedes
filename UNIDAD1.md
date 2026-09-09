@@ -1,6 +1,7 @@
 ### Actividad1.1
 
 ¿Qué esperan aprender en esta materia?
-Espero lograr un buen desarrollo como comprension de los temas por ver.
+Espero lograr un buen desarrollo como comprensión de los temas por ver.
+
 
 
